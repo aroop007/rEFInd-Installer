@@ -16,6 +16,7 @@ This script automates the installation of the rEFInd boot manager on Linux syste
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/aroop007/rEFInd-Install.git
+    cd rEFInd-Install
     ```
     
 2.  **Make the script executable:**
