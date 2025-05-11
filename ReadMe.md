@@ -31,4 +31,4 @@ This script automates the installation of the rEFInd boot manager on Linux syste
     ```
 
 ##   Important Notes
-     **Works only on Ubuntu or Debian based Distros**
+*Works only on Ubuntu or Debian based Distros
